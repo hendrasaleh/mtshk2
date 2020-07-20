@@ -1,4 +1,5 @@
 <?php
+
 include "function.php";
 include "database.php";
 
@@ -36,6 +37,7 @@ if  ( empty($namaSementara) ) {
             $query_run = $data->getDb()->query($query);
         
             if ($query_run) {
+                require "log.php";
                 header("location: ".MAIN_URL."index.php");
             }
         } else {
