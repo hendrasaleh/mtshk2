@@ -13,7 +13,7 @@ $judul = addslashes($_POST['judul_materi']);
 $deskripsi = addslashes($_POST['deskripsi']);
 $video = $_POST['video'];
 $namaFile = $_FILES['file']['name'];
-$extensionList = array ("ppt", "pptx", "pdf", "doc", "docx");
+$extensionList = array ("ppt", "PPT", "pptx", "PPTX", "pdf", "PDF", "doc", "DOC", "docx", "DOCX");
 $pecah = explode (".", $namaFile);
 $extensi = $pecah[1];
     
