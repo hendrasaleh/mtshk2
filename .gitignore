@@ -2,7 +2,6 @@
 *.sql
 tes.php
 halaman/akun/raport/
-halaman/akun/asset/main/files/
 halaman/akun/env.php
 halaman/akun/guru/env.php
 *.txt
