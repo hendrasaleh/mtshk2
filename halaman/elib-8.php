@@ -19,8 +19,8 @@
                             <div class="gallery-details">
                             	<div class="editContent">
                                     <h4>Adabul Mutaalim</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=adab-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=adab-8" class="btn btn-primary">Buku Guru</a>
                             	</div>
                             </br>
                             </div>
@@ -37,8 +37,8 @@
                             <div class="gallery-details">
                             	<div class="editContent">
                                     <h4>SKI</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=ski-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=ski-8" class="btn btn-primary">Buku Guru</a>
                             	</div>
                             </br>
                             </div>
@@ -55,8 +55,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>Qurdits</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=qurdits-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=qurdits-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -73,8 +73,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>PKn</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=pkn-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=pkn-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -91,8 +91,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>PJOK</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=pjok-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=pjok-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -109,8 +109,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>Matematika</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=mtk-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=mtk-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -127,8 +127,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>IPS</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=ips-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=ips-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -145,8 +145,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>IPA</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=ipa-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=ipa-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -163,8 +163,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>Fikih</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=fikih-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=fikih-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -181,8 +181,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>Bahasa Inggris</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=inggris-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=inggris-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -199,8 +199,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>Bahasa Indonesia</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=indonesia-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=indonesia-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -217,8 +217,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>Bahasa Arab</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=arab-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=arab-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
@@ -235,8 +235,8 @@
                             <div class="gallery-details">
                                 <div class="editContent">
                                     <h4>Akidah Akhlak</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
+                                    <a href="index.php?page=akidah-8" class="btn btn-primary">Buku Siswa</a>
+                                    <a href="index.php?page=akidah-8" class="btn btn-primary">Buku Guru</a>
                                 </div>
                             </br>
                             </div>
