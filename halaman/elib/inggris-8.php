@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h2 class="pageTitle">Bahasa Inggris Kelas 7</h2>
+				<h2 class="pageTitle">Bahasa Inggris Kelas 8</h2>
 			</div>
 		</div>
 	</div>
@@ -14,7 +14,7 @@
 		<div class="row"> 
 		<div class="col-md-12">
 			<div class="about-logo">
-			<iframe src="https://drive.google.com/file/d/1QjjaoyKHzwdlA32MQmH_2yjKyAFkOH1j/preview" style="border:0;height:800px;width:100%"></iframe>
+			<iframe src="https://drive.google.com/file/d/1VWqy_y_17fWupjAYyCHs7Ucy-s2JlHdi/preview" style="border:0;height:800px;width:100%"></iframe>
 			</div>  
 		</div>
 		</div>

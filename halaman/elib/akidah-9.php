@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h2 class="pageTitle">Akidah Akhlak Kelas 7</h2>
+				<h2 class="pageTitle">Akidah Akhlak Kelas 9</h2>
 			</div>
 		</div>
 	</div>
