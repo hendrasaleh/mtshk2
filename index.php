@@ -65,6 +65,14 @@ require "log.php";
                             <li><a href="index.php?page=kerja-sama">Kerja Sama</a></li> 
                         </ul>
                     	</li>
+                        <li class="dropdown">
+                        <a href="index.php?page=galeri" data-toggle="dropdown" class="dropdown-toggle">e-Library <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="index.php?page=elib-7">Kelas 7</a></li>
+                            <li><a href="index.php?page=elib-8">Kelas 8</a></li>
+                            <li><a href="index.php?page=elib-9">Kelas 9</a></li> 
+                        </ul>
+                        </li>
                         <li><a href="halaman/akun">Login</a></li>
                         <li class="<?php if($_GET['page'] === "kontak") {echo "active";}?>"><a href="index.php?page=kontak">Contact</a></li>
                     </ul>
@@ -115,6 +123,15 @@ require "log.php";
                 break;
             case 'study-club':
                 include "halaman/study-club.php";
+                break;
+            case 'elib-7':
+                include "halaman/elib-7.php";
+                break;
+            case 'elib-8':
+                include "halaman/elib-8.php";
+                break;
+            case 'elib-9':
+                include "halaman/elib-9.php";
                 break;
             case 'jadwal-pat':
                 include "halaman/jadwal-pat.php";
