@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h2 class="pageTitle">Fikih Kelas 7</h2>
+				<h2 class="pageTitle">Fikih Kelas 9</h2>
 			</div>
 		</div>
 	</div>
@@ -14,7 +14,7 @@
 		<div class="row"> 
 		<div class="col-md-12">
 			<div class="about-logo">
-			<iframe src="https://drive.google.com/file/d/17Bdn727QN7ki_1Na7VJ5LhLEINzDvc7T/preview" style="border:0;height:800px;width:100%"></iframe>
+			<iframe src="https://drive.google.com/file/d/13Y3kfW3sSOeaJLC2HIgnRk-JFALHvsEo/preview" style="border:0;height:800px;width:100%"></iframe>
 			</div>  
 		</div>
 		</div>

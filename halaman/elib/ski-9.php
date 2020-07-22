@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h2 class="pageTitle">SKI Kelas 7</h2>
+				<h2 class="pageTitle">SKI Kelas 9</h2>
 			</div>
 		</div>
 	</div>
@@ -14,7 +14,7 @@
 		<div class="row"> 
 		<div class="col-md-12">
 			<div class="about-logo">
-			<iframe src="https://drive.google.com/file/d/1eNY-xB8y5CSYrONda7-xsQnyIdzMe0jG/preview" style="border:0;height:800px;width:100%"></iframe>
+			<iframe src="https://drive.google.com/file/d/18ICBVCwFOCW3ZwDKdZmf7jPPYbHCwc-T/preview" style="border:0;height:800px;width:100%"></iframe>
 			</div>  
 		</div>
 		</div>

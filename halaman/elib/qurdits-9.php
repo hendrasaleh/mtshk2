@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h2 class="pageTitle">Al Qur'an Hadits Kelas 7</h2>
+				<h2 class="pageTitle">Al Qur'an Hadits Kelas 9</h2>
 			</div>
 		</div>
 	</div>
@@ -14,7 +14,7 @@
 		<div class="row"> 
 		<div class="col-md-12">
 			<div class="about-logo">
-			<iframe src="https://drive.google.com/file/d/1YhAXh-ktu_w0beeut74JDBmk7KnC4gln/preview" style="border:0;height:800px;width:100%"></iframe>
+			<iframe src="https://drive.google.com/file/d/1iBCB0FCqPKZiYXh6ee6It36MBNSg0erF/preview" style="border:0;height:800px;width:100%"></iframe>
 			</div>  
 		</div>
 		</div>

@@ -14,7 +14,7 @@
 		<div class="row"> 
 		<div class="col-md-12">
 			<div class="about-logo">
-			<iframe src="https://drive.google.com/file/d/1_5S04x3htYnpiBLzwpOlFvGkjhx7e2uU/preview" style="border:0;height:800px;width:100%"></iframe>
+			<iframe src="https://drive.google.com/file/d/1hJp1L5IwtVytbr082aTiDd38f3k_sgUZ/preview" style="border:0;height:800px;width:100%"></iframe>
 			</div>  
 		</div>
 		</div>
