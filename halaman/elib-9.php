@@ -3,7 +3,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="section-title text-center">
-						<h2>BUKU SEKOLAH ELEKTRONIK KELAS 7</h2>
+						<h2>BUKU SEKOLAH ELEKTRONIK KELAS 9</h2>
 					</div>
 				</div>
 			</div>
@@ -12,45 +12,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/1.jpg" class="img-responsive" alt="1st gallery Thumb">
+                                <img src="img/book/n.jpg" class="img-responsive" alt="3rd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/1.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
-                            </div>
-                            <div class="gallery-details">
-                            	<div class="editContent">
-                                    <h4>Mahfudzot</h4>
-	                                <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
-                            	</div>
-                            </br>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.gallery-item-wrapper -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper rutin">
-                        <div class="gallery-item">
-                            <div class="gallery-thumb">
-                                <img src="img/book/2.jpg" class="img-responsive" alt="2nd gallery Thumb">
-                                <div class="image-overlay"></div>
-                                <a href="img/book/2.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
-                            </div>
-                            <div class="gallery-details">
-                            	<div class="editContent">
-                                    <h4>TIK</h4>
-                                    <a href="#" class="btn btn-primary">Buku Siswa</a>
-                                    <a href="#" class="btn btn-primary">Buku Guru</a>
-                            	</div>
-                            </br>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.gallery-item-wrapper -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
-                        <div class="gallery-item">
-                            <div class="gallery-thumb">
-                                <img src="img/book/3.jpg" class="img-responsive" alt="3rd gallery Thumb">
-                                <div class="image-overlay"></div>
-                                <a href="img/book/3.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/n.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                             	<div class="editContent">
@@ -66,9 +30,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/4.jpg" class="img-responsive" alt="1st gallery Thumb">
+                                <img src="img/book/o.jpg" class="img-responsive" alt="1st gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/4.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/o.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -84,9 +48,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper rutin">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/5.jpg" class="img-responsive" alt="2nd gallery Thumb">
+                                <img src="img/book/p.jpg" class="img-responsive" alt="2nd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/5.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/p.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -102,9 +66,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/6.jpg" class="img-responsive" alt="3rd gallery Thumb">
+                                <img src="img/book/q.jpg" class="img-responsive" alt="3rd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/6.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/q.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -120,9 +84,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper rutin">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/7.jpg" class="img-responsive" alt="2nd gallery Thumb">
+                                <img src="img/book/r.jpg" class="img-responsive" alt="2nd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/7.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/r.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -138,9 +102,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/8.jpg" class="img-responsive" alt="3rd gallery Thumb">
+                                <img src="img/book/s.jpg" class="img-responsive" alt="3rd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/8.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/s.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -156,9 +120,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/9.jpg" class="img-responsive" alt="1st gallery Thumb">
+                                <img src="img/book/t.jpg" class="img-responsive" alt="1st gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/9.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/t.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -174,9 +138,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/10.jpg" class="img-responsive" alt="3rd gallery Thumb">
+                                <img src="img/book/u.jpg" class="img-responsive" alt="3rd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/10.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/u.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -192,9 +156,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/11.jpg" class="img-responsive" alt="1st gallery Thumb">
+                                <img src="img/book/v.jpg" class="img-responsive" alt="1st gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/11.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/v.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -210,9 +174,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper rutin">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/12.jpg" class="img-responsive" alt="2nd gallery Thumb">
+                                <img src="img/book/w.jpg" class="img-responsive" alt="2nd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/12.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/w.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -228,9 +192,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/13.jpg" class="img-responsive" alt="3rd gallery Thumb">
+                                <img src="img/book/x.jpg" class="img-responsive" alt="3rd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/13.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/x.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
@@ -246,9 +210,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper club">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/book/14.jpg" class="img-responsive" alt="1st gallery Thumb">
+                                <img src="img/book/y.jpg" class="img-responsive" alt="1st gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/book/14.jpeg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/book/y.jpeg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
