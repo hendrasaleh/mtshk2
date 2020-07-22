@@ -4,9 +4,6 @@
         <div id="main-slider" class="flexslider">
             <ul class="slides">
               <li>
-                <img src="img/slides/4.png" alt="" />
-               </li>
-              <li>
                 <img src="img/slides/1.png" alt="" />
                </li>
               <li>
