@@ -127,6 +127,48 @@ require "log.php";
             case 'elib-7':
                 include "halaman/elib-7.php";
                 break;
+            case 'mahfudzot-7':
+                include "halaman/elib/mahfudzot-7.php";
+                break;
+            case 'tik-7':
+                include "halaman/elib/tik-7.php";
+                break;
+            case 'ski-7':
+                include "halaman/elib/ski-7.php";
+                break;
+            case 'qurdits-7':
+                include "halaman/elib/qurdits-7.php";
+                break;
+            case 'pkn-7':
+                include "halaman/elib/pkn-7.php";
+                break;
+            case 'pjok-7':
+                include "halaman/elib/pjok-7.php";
+                break;
+            case 'mtk-7':
+                include "halaman/elib/mtk-7.php";
+                break;
+            case 'ips-7':
+                include "halaman/elib/ips-7.php";
+                break;
+            case 'ipa-7':
+                include "halaman/elib/ipa-7.php";
+                break;
+            case 'inggris-7':
+                include "halaman/elib/inggris-7.php";
+                break;
+            case 'indonesia-7':
+                include "halaman/elib/indonesia-7.php";
+                break;
+            case 'arab-7':
+                include "halaman/elib/arab-7.php";
+                break;
+            case 'fikih-7':
+                include "halaman/elib/fikih-7.php";
+                break;
+            case 'akidah-7':
+                include "halaman/elib/akidah-7.php";
+                break;
             case 'elib-8':
                 include "halaman/elib-8.php";
                 break;
