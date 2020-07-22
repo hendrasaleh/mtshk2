@@ -172,8 +172,83 @@ require "log.php";
             case 'elib-8':
                 include "halaman/elib-8.php";
                 break;
+            case 'adab-8':
+                include "halaman/elib/adab-8.php";
+                break;
+            case 'ski-8':
+                include "halaman/elib/ski-8.php";
+                break;
+            case 'qurdits-8':
+                include "halaman/elib/qurdits-8.php";
+                break;
+            case 'pkn-8':
+                include "halaman/elib/pkn-8.php";
+                break;
+            case 'pjok-8':
+                include "halaman/elib/pjok-8.php";
+                break;
+            case 'mtk-8':
+                include "halaman/elib/mtk-8.php";
+                break;
+            case 'ips-8':
+                include "halaman/elib/ips-8.php";
+                break;
+            case 'ipa-8':
+                include "halaman/elib/ipa-8.php";
+                break;
+            case 'inggris-8':
+                include "halaman/elib/inggris-8.php";
+                break;
+            case 'indonesia-8':
+                include "halaman/elib/indonesia-8.php";
+                break;
+            case 'arab-8':
+                include "halaman/elib/arab-8.php";
+                break;
+            case 'fikih-8':
+                include "halaman/elib/fikih-8.php";
+                break;
+            case 'akidah-8':
+                include "halaman/elib/akidah-8.php";
+                break;
             case 'elib-9':
                 include "halaman/elib-9.php";
+                break;
+            case 'ski-9':
+                include "halaman/elib/ski-9.php";
+                break;
+            case 'qurdits-9':
+                include "halaman/elib/qurdits-9.php";
+                break;
+            case 'pkn-9':
+                include "halaman/elib/pkn-9.php";
+                break;
+            case 'pjok-9':
+                include "halaman/elib/pjok-9.php";
+                break;
+            case 'mtk-9':
+                include "halaman/elib/mtk-9.php";
+                break;
+            case 'ips-9':
+                include "halaman/elib/ips-9.php";
+                break;
+            case 'ipa-9':
+                include "halaman/elib/ipa-9.php";
+                break;
+            case 'inggris-9':
+                include "halaman/elib/inggris-9.php";
+                break;
+            case 'indonesia-9':
+                include "halaman/elib/indonesia-9.php";
+                break;
+            case 'arab-9':
+                include "halaman/elib/arab-9.php";
+                break;
+            case 'fikih-9':
+                include "halaman/elib/fikih-9.php";
+                break;
+            case 'akidah-9':
+                include "halaman/elib/akidah-9.php";
                 break;
             case 'jadwal-pat':
                 include "halaman/jadwal-pat.php";
