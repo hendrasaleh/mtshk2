@@ -121,7 +121,7 @@ $data = new database();
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <!--<div class="row">
                 <div id="disqus_thread"></div>
                     <script>
                         /**
@@ -144,7 +144,7 @@ $data = new database();
                         })();
                     </script>
                     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-            </div>
+            </div>-->
             <?php
                     //endforeach;
                 endforeach;
