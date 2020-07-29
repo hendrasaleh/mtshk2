@@ -21,8 +21,8 @@
             <div class="row">
                 <div class="col-md-12 col-sm-9">
                     <h3>Pembelajaran Daring Tahun Ajaran 2020/2021</h3>
-                    <p>Santri MTs Husnul Khotimah 2 Kuningan yang insyaAllah dirahmati Allah SWT, dikarenakan kondisi yang tidak memungkinkan untuk pembelajaran tatap muka, insyaAllah pembelajaran akan dilaksanakan secara daring mulai tanggal 13 Juli 2020.</p>
-                    <p>Untuk memulai pembelajaran silakan klik login, dan masuk menggunakan username dan password yang akan dibagikan oleh wali kelas.</p>
+                    <p>Santri MTs Husnul Khotimah 2 Kuningan yang insyaAllah dirahmati Allah SWT, dikarenakan kondisi yang tidak memungkinkan untuk pembelajaran tatap muka, insyaAllah pembelajaran dilaksanakan secara daring mulai tanggal 13 Juli 2020.</p>
+                    <p>Untuk memulai pembelajaran silakan klik login, dan masuk menggunakan username dan password yang dibagikan oleh wali kelas.</p>
                     <p>Informasi terkait formasi wali kelas di tahun ajaran 2020/2021 dan sekilas tentang profil ponpes HK 2 Kuningan dapat dilihat pada video di bawah ini.</p>
                     <a href="dokumen/jadwal-daring-hk2-agustus.pdf" class="btn btn-primary">Unduh Jadwal Daring Ter-update untuk bulan Agustus 2020</a>
                 </div>
