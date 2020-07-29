@@ -1,9 +1,12 @@
 <?php
-include "function.php";
-include "database.php";
 
-$id = $_POST['id_materi'];
-$data = new database();
+if (isset($_POST['id_materi'])) {
+    include "function.php";
+    include "database.php";
+    $data = new database();
+    $id = $_POST['id_materi'];
+    $nama_santri = $_POST['nama_santri'];
+    $level = $_POST['level'];
 
 ?>
 <!DOCTYPE html>
@@ -69,6 +72,11 @@ $data = new database();
 	</header>
 	<!-- end header
 	<section id="banner"> -->
+    <?php
+        } else {
+            $id = $_GET['id'];
+        }
+    ?>
 	<section id="inner-headline">
     <div class="container">
         <div class="row">
@@ -151,6 +159,10 @@ $data = new database();
             ?>
         </div>
     </section>
+    <?php
+        if (isset($_POST['id_materi'])) {
+            # code...
+    ?>
 	<footer>
 	<div id="sub-footer">
 		<div class="container">
@@ -196,3 +208,6 @@ $data = new database();
 <script src="asset/main/js/owl-carousel/owl.carousel.js"></script>
 </body>
 </html>
+<?php
+}
+?>
