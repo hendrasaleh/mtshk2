@@ -73,6 +73,7 @@ require "log.php";
                             <li><a href="index.php?page=elib-9">Kelas 9</a></li> 
                         </ul>
                         </li>
+                        <li><a href="https://forms.gle/BvVCnzmpvUrfMDZb6">Mutaba'ah Yaumiyah</a></li>
                         <li><a href="halaman/akun">Login</a></li>
                         <li class="<?php if($_GET['page'] === "kontak") {echo "active";}?>"><a href="index.php?page=kontak">Contact</a></li>
                     </ul>
