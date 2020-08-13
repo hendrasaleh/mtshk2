@@ -156,14 +156,14 @@
             <div class="col-md-4 md-margin-bottom-40">
                         <!-- 16:9 aspect ratio -->
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5oXz3L0Ytmw?rel=0"
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Z3rCkE1G3Vk?rel=0"
                                     allowfullscreen="allowfullscreen"
                                     mozallowfullscreen="mozallowfullscreen" 
                                     msallowfullscreen="msallowfullscreen" 
                                     oallowfullscreen="oallowfullscreen" 
                                     webkitallowfullscreen="webkitallowfullscreen">></iframe>
                         </div>
-                        <h4>Workshop Robotik</h4>
+                        <h4>Robotik MTs HK2 Kuningan</h4>
             </div>
             <div class="col-md-4 md-margin-bottom-40">
                         <!-- 16:9 aspect ratio -->
