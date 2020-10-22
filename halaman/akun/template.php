@@ -53,6 +53,7 @@
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
                         <li class="<?php if(!isset($_GET['page'])) {echo "active";}?>"><a href="index.php">Home</a></li>
+                        <li class="<?php if(isset($_GET['page'])) {echo "active";}?>"><a href="user.php?page=report">E-Report</a></li>
                         <li><a href="logout.php">Logout</a></li>
                         <li><a href="index.php?page=kontak">Contact</a></li>
                     </ul>
