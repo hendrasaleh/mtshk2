@@ -1,3 +1,4 @@
+  
     <section id="content">
     <div class="container">
         <div class="row">
@@ -19,6 +20,5 @@
         <p><a href="index.php?page=mps" class="btn btn-medium"><i class="icon-bolt"></i>VOTE</a></p>       
         </div>
         </div>
-
     </div>
     </section>
