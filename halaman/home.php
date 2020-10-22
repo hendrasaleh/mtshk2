@@ -21,10 +21,10 @@
             <div class="row">
                 <div class="col-md-12 col-sm-9">
                     <h3>Pembelajaran Daring Tahun Ajaran 2020/2021</h3>
-                    <p>Santri MTs Husnul Khotimah 2 Kuningan yang insyaAllah dirahmati Allah SWT, dikarenakan kondisi yang tidak memungkinkan untuk pembelajaran tatap muka, insyaAllah pembelajaran akan dilaksanakan secara daring mulai tanggal 13 Juli 2020.</p>
-                    <p>Untuk memulai pembelajaran silakan klik login, dan masuk menggunakan username dan password yang akan dibagikan oleh wali kelas.</p>
+                    <p>Santri MTs Husnul Khotimah 2 Kuningan yang insyaAllah dirahmati Allah SWT, dikarenakan kondisi yang tidak memungkinkan untuk pembelajaran tatap muka, insyaAllah pembelajaran dilaksanakan secara daring mulai tanggal 13 Juli 2020.</p>
+                    <p>Untuk memulai pembelajaran silakan klik login, dan masuk menggunakan username dan password yang dibagikan oleh wali kelas.</p>
                     <p>Informasi terkait formasi wali kelas di tahun ajaran 2020/2021 dan sekilas tentang profil ponpes HK 2 Kuningan dapat dilihat pada video di bawah ini.</p>
-                    <a href="dokumen/jadwal-daring.pdf" class="btn btn-primary">Unduh Jadwal Daring</a>
+                    <a href="dokumen/jadwal-daring-hk2-agustus.pdf" class="btn btn-primary">Unduh Jadwal Daring Ter-update</a>
                 </div>
             </div>
             <div class="row">
@@ -35,7 +35,7 @@
                 </div>
                 <div class="col-md-6 col-sm-9">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zDPeMRcZovI?rel=0"></iframe>
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Qf19bGN33rk?rel=0"></iframe>
                     </div>
                 </div>
 <!--                <div class="col-md-2 col-sm-3">
@@ -156,14 +156,14 @@
             <div class="col-md-4 md-margin-bottom-40">
                         <!-- 16:9 aspect ratio -->
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5oXz3L0Ytmw?rel=0"
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Z3rCkE1G3Vk?rel=0"
                                     allowfullscreen="allowfullscreen"
                                     mozallowfullscreen="mozallowfullscreen" 
                                     msallowfullscreen="msallowfullscreen" 
                                     oallowfullscreen="oallowfullscreen" 
                                     webkitallowfullscreen="webkitallowfullscreen">></iframe>
                         </div>
-                        <h4>Workshop Robotik</h4>
+                        <h4>Robotik MTs HK2 Kuningan</h4>
             </div>
             <div class="col-md-4 md-margin-bottom-40">
                         <!-- 16:9 aspect ratio -->
