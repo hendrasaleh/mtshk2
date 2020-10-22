@@ -113,6 +113,15 @@ require "log.php";
             case 'kontak':
                 include "halaman/kontak.php";
                 break;
+            case 'mps':
+                include "halaman/pemira/mps.php";
+                break;
+            case 'oshk':
+                include "halaman/pemira/oshk.php";
+                break;
+            case 'pemira':
+                include "halaman/pemira.php";
+                break;
             case 'galeri':
                 include "halaman/galeri.php";
                 break;
