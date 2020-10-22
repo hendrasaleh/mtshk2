@@ -1,6 +1,4 @@
 <?php 
-// include "function.php";
-// include "database.php";
 
 $data = new database();
 

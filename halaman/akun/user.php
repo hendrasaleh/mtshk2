@@ -34,6 +34,7 @@ if (!isset($_SESSION['username']))
 else
 {
 	$nama = $_SESSION['username'];
+	$namasantri = $_SESSION['nama'];
 	$halaman = $file;
 	$log = "INSERT INTO user_log(username, status, halaman) VALUES ('$nama', 'akses', '$halaman')";
 	$hasil = $data->getDb()->query($log);
