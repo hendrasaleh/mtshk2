@@ -1,8 +1,7 @@
 <?php 
 
 $data = new database();
-$query = $data->getDb()->query("SELECT * FROM de_oshk_mts");
-$calon = $query->fetchAll();
+
 ?>
 <div class="about home-about">
     <div class="container">
@@ -15,9 +14,37 @@ $calon = $query->fetchAll();
 				</div>
 			</div>
 		</div>
+        <?php
+
+        $query_user = $data->getDb()->query("SELECT * FROM hasil_oshk_mts WHERE siswa_user_name = '$nama'");
+        $hasil_vote = $query_user->fetchAll();
+        $row = count($hasil_vote);
+
+        if ($row > 0) :
+            $hitung = $data->getDb()->query("SELECT * FROM hasil_oshk_mts");
+            $jml = $hitung->fetchAll();
+            $total = count($jml);
+        ?>
+        <div class="row">
+            <div class="skill-home"> 
+                <div class="skill-home-solid clearfix"> 
+                    <div class="col-md-12 text-center"> 
+                        <span class="icons c3"><i class="fa fa-trophy"></i></span> 
+                        <div class="box-area">
+                            <h2>VOTE BERHASIL</h2> <h4>Selamat, VOTE Untuk Pemilihan Ketua OSHK MTs Husnul Khotimah 2 Kuningan Berhasil.</h4> <h4>Jumlah suara masuk = <strong><?= $total; ?></strong></h4>
+                            <br>
+                            <a href="user.php?page=pemira" class="btn btn-primary"><i class="icon-bolt"></i> KEMBALI KE HALAMAN PEMIRA</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <?php else : ?>
         <div class="row">
             <div id="isotope-gallery-container">
-                <?php 
+                <?php
+                $query = $data->getDb()->query("SELECT * FROM de_oshk_mts");
+                $calon = $query->fetchAll();
                 foreach ($calon AS $n) :
                 ?>
                 <form method="post" action="proses-oshk-mts.php">
@@ -42,30 +69,6 @@ $calon = $query->fetchAll();
                 <?php endforeach; ?>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="section-title text-center">
-                    <a href="user.php?page=pemira" class="btn btn-primary">KEMBALI KE HALAMAN PEMIRA</a>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <div class="skill-home">
-                    <div class="skill-home-solid clearfix">
-                        <div class="text-center">
-                            <span class="icons c1"><i class="fa fa-book"></i></span>
-                            <div class="box-area">
-                                <h3>RAPORT PONDOK</h3>
-                                <p>Silahkan klik tombol di bawah ini untuk mengunduh Raport Pondok dalam bentuk PDF.</p>
-                                <a href="#" target="_blank" class="btn btn-medium">
-                                    <i class="icon-bolt"></i> UNDUH
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php endif; ?>
 	</div>
 </div>	  
